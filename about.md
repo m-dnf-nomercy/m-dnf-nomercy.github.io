@@ -3,8 +3,6 @@ layout: page
 title: About
 sidebar_link: true
 ---
-#### 던파 모바일 노머시 길드 공지용 페이지. 길컨 관리용으로 개설하였음.
-
 ### 길드 규칙
 
 * 쎆드립/패드립 안박기.

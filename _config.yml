@@ -1,9 +1,9 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+remote_theme: fongandrew/hydeout
 
 # Setup
-remote_theme: fongandrew/hydeout
 title:            노머시
 tagline:          'DNF(M)'
 description:      ''

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://m-dnf-nomercy.github.io
+Sitemap: https://m-dnf-nomercy.github.io/sitemap.xml

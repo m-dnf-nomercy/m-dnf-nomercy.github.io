@@ -3,9 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+remote_theme: fongandrew/hydeout
+title:            노머시
+tagline:          'DNF(M)'
+description:      ''
 url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,7 +17,7 @@ baseurl:          '/hydeout'
 
 author:
   name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  url:            https://m-dnf-nomercy.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'

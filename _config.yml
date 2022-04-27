@@ -16,8 +16,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://m-dnf-nomercy.github.io
+  name:           'nenyoungam'
+  url:            m-dnf-nomercy.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'

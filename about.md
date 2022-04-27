@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 길드규칙
 sidebar_link: true
 ---
 #### 던파 모바일 노머시 길드 공지용 페이지. 길컨 관리용으로 개설하였음.
